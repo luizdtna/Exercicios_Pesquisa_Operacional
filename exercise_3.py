@@ -1,3 +1,6 @@
+# 3. Faça um programa que leia e preencha uma matriz de 10x10. No final, imprima
+# a matriz.
+
 import random
 cont = 0
 matriz = []

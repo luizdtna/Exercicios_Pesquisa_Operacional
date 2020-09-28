@@ -1,3 +1,6 @@
+# 4. Faça um programa que leia 10 números e calcule imprima o maior valor, o
+# menor valor e a média.
+
 import random
 list = []
 for i in range(10):
