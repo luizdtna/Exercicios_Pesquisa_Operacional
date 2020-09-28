@@ -8,7 +8,7 @@ Codigos feitos em Python. Para executar, sigas as instruções:
 Para executar o programa, você deve acessar a pasta raiz pelo terminal de seu SO
 em seguida exetute:
 
-python3 <nome_do_exercicio>.py
+* python3 <nome_do_exercicio>.py
 
 
 
