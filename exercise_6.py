@@ -1,3 +1,7 @@
+# Dado o grafo representado na imagem a seguir. Faça um programa que leia um
+# arquivo contendo informações do grafo, gere uma matriz de adjacência e calcule
+# o grau de cada vértice.
+
 cont = 0
 matriz = []
 for i in range(6):

@@ -1,4 +1,5 @@
-
+# Dado o grafo anterior, faça um programa que leia um vértice e retorne os
+# vértices adjacentes a ele.
 
 conexoes = {}
 for i in range(6):
