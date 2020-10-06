@@ -10,5 +10,7 @@ em seguida execute:
 
 * python3 <nome_do_exercicio>.py
 
+OBS: As letras correspondente ao 2º exercício, são executadas no mesmo arquivo.py
+
 
 

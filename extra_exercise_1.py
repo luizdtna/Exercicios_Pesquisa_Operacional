@@ -3,7 +3,7 @@ custo = 0
 cont = 0
 matriz = []
 
-row_col = int(input('Digite o numero de linhas/colunas: '))
+
 
 file = open('matriz3', 'r')
 for i in file:
@@ -11,6 +11,7 @@ for i in file:
     i = i.split(' ')
     matriz.append(i)
 file.close()
+row_col = len(matriz[0])
 
 print('Matriz')
 for i in range(row_col): #numero de linhas
